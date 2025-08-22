@@ -3,7 +3,6 @@
 ## 🚀 About Me
 - 🎓 I’m a Computer Science & Engineering student
 - 💻 Passionate about Web Development & AI
-- 🌱 Currently learning React and Cloud Computing
 - ⚡ Fun fact: I love solving coding challenges!
 
 ## 🔗 Connect with me
