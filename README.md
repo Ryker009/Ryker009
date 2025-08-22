@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi there 👋 I'm Rakesh
+
+## 🚀 About Me
+- 🎓 I’m a Computer Science & Engineering student
+- 💻 Passionate about Web Development & AI
+- 🌱 Currently learning React and Cloud Computing
+- ⚡ Fun fact: I love solving coding challenges!
+
+## 🔗 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/raka18/)
 
 <!--
 **Ryker009/Ryker009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
