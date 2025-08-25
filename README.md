@@ -1,24 +1,27 @@
 # Hi there 👋 I'm Rakesh
 
 ## 🚀 About Me
-- 🎓 I’m a Computer Science & Engineering student
-- 💻 Passionate about Web Development & AI
-- ⚡ Fun fact: I love solving coding challenges!
+- 🎓 Final-year **Computer Science & Engineering** student at **Panjab University**
+- 💻 Skilled in **HTML, CSS, JavaScript, React, MERN, C, C++, Java, SQL**
+- 🤖 Passionate about **Web Development & Artificial Intelligence**
+- ⚡ Fun fact: I enjoy solving coding challenges & debugging tricky errors!
 
-## 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/raka18/)
+## 📈 Coding Profiles
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/u/im_ryker/)
 
-<!--
-**Ryker009/Ryker009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔗 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raka18/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Exploring
+- MERN backend technologies  
+- AI/ML integration with web apps  
+
+### 💡 What I Do
+- Build **modern, responsive web applications**  
+- Solve coding problems to sharpen problem-solving skills  
+- Continuously learn & explore new technologies  
+
+---
+✨ *"Code, Learn, Build, Repeat."* ✨
