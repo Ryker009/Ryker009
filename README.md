@@ -3,7 +3,7 @@
 ## 🚀 About Me
 - 🎓 Final-year **Computer Science & Engineering** student at **Panjab University**
 - 💻 Skilled in **HTML, CSS, JavaScript, React, MERN, C, C++, Java, SQL**
-- 🤖 Passionate about **Web Development & Artificial Intelligence**
+- 🤖 Passionate about **Web Development**
 - ⚡ Fun fact: I enjoy solving coding challenges & debugging tricky errors!
 
 ## 📈 Coding Profiles
@@ -16,7 +16,6 @@
 
 ### 🌱 Currently Exploring
 - MERN backend technologies  
-- AI/ML integration with web apps  
 
 ### 💡 What I Do
 - Build **modern, responsive web applications**  
