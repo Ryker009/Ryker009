@@ -29,6 +29,3 @@
 
 Bruhh, upar wala sab AI ne likha hai.
 Mai to bas simple sa Ladka hu Jo code karta hai :)
-
-
-Ye Mat Padh Pagli, Pyar Ho Jayega
