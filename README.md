@@ -1,9 +1,10 @@
-# Hi there 👋 I'm Rakesh
+# Hi there 👋 I'm Rakesh 
 
 ## 🚀 About Me
-- 🎓 Final-year **Computer Science & Engineering** student at **Panjab University**
-- 💻 Skilled in **HTML, CSS, JavaScript, React, MERN, C, C++, Java, SQL**
-- 🤖 Passionate about **Web Development**
+- 🎓 Final-year **B.E. Computer Science & Engineering** student at **UIET, Panjab University**
+- 🤖 Passionate about **Full Stack Web Development**
+- 💻 Skilled in **HTML, CSS, JavaScript, MERN, C/C++, Java, SQL, MySQL, Git**
+- ⚡ I enjoy **building projects, solving coding problems, and improving my development skills**
 - ⚡ Fun fact: I enjoy solving coding challenges & debugging tricky errors!
 
 ## 📈 Coding Profiles
@@ -15,7 +16,7 @@
 ---
 
 ### 🌱 Currently Exploring
-- MERN backend technologies  
+- AWS and Deployment technologies  
 
 ### 💡 What I Do
 - Build **modern, responsive web applications**  
